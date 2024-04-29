@@ -19,5 +19,14 @@
 <img width="307" alt="20240429_124126" src="https://github.com/DOC518/Android/assets/58536317/333d8648-4bce-4120-a5ff-97cb00a12fc0">
 <img width="364" alt="20240429_124103" src="https://github.com/DOC518/Android/assets/58536317/71ddda63-2e1e-4083-a418-4e149935ea89">
 <img width="316" alt="20240429_124051" src="https://github.com/DOC518/Android/assets/58536317/f1681adb-fd74-47c2-b3b0-a98f97bc12c3">
-<img width="316" alt="20240429_154510" src="https://github.com/DOC518/Android/assets/58536317/f1681adb-fd74-47c2-b3b0-a98f97bc12c3">
+
+![20240429_154510](https://github.com/DOC518/Android/assets/58536317/68b23a52-62e2-4f4b-8bb9-1b354d36cb2a)
+![20240429_162812](https://github.com/DOC518/Android/assets/58536317/474ef61f-436b-41c4-b96e-4ca392bdc9a2)
+![20240429_160111](https://github.com/DOC518/Android/assets/58536317/08960cf0-ef22-4296-bf9d-f938e9217c42)
+![20240429_154401](https://github.com/DOC518/Android/assets/58536317/9f83726b-4b4d-4b9b-a451-07e634af1d17)
+![20240429_154245](https://github.com/DOC518/Android/assets/58536317/722a9658-a5b6-4ac4-921d-e7ce055d58ec)
+![20240429_154840](https://github.com/DOC518/Android/assets/58536317/4cb554af-9bb2-480f-bb2b-8fdaa0680e86)
+![20240429_154719](https://github.com/DOC518/Android/assets/58536317/7271ee55-2d40-44b2-9b9d-82aa1849d889)
+![20240429_152557](https://github.com/DOC518/Android/assets/58536317/cd6ff435-6c14-470f-aedf-cfa92e01cc7e)
+![20240429_151209](https://github.com/DOC518/Android/assets/58536317/585ac576-4cc5-4281-b2d7-8d1b1ac91abc)
 
