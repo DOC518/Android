@@ -10,12 +10,12 @@
 <img width="261" alt="20240429_120035" src="https://github.com/DOC518/Android/assets/58536317/b2a4700d-2710-4ac9-a433-40599aa3b016">
 <img width="261" alt="20240429_122332" src="https://github.com/DOC518/Android/assets/58536317/ef7b520a-1d15-4ae4-8136-806184531ca7">
 <img width="261" alt="20240429_122250" src="https://github.com/DOC518/Android/assets/58536317/4a8a237b-09aa-4960-a97d-b111211f9ca4">
-![Screenshot_20240318_172351](https://github.com/DOC518/Android/assets/58536317/0ce1e4cd-c9b2-4be2-9e6e-59ed9ef97682)
-![Screenshot_20240318_163235](https://github.com/DOC518/Android/assets/58536317/0f40334d-4dd0-4a57-bd13-7a092705011a)
-![pic2](https://github.com/DOC518/Android/assets/58536317/d1f16f1b-8777-4ee8-9b99-67864cc65abd)
-![pic1](https://github.com/DOC518/Android/assets/58536317/56beb077-e58a-4a4e-945a-111ec891fc29)
 <img width="271" alt="20240429_115141" src="https://github.com/DOC518/Android/assets/58536317/c6308ed4-ee74-4403-8b2d-ade6e3a840b5">
 <img width="271" alt="20240429_115049" src="https://github.com/DOC518/Android/assets/58536317/87c9f51f-4a73-48bc-a117-67fdb2d10ad3">
 <img width="271" alt="20240429_114856" src="https://github.com/DOC518/Android/assets/58536317/a40cbe21-29ba-470a-9d60-8aa4caf8d969">
 <img width="271" alt="20240429_114817" src="https://github.com/DOC518/Android/assets/58536317/ba4698db-e29d-43cb-9969-6b03b32f7c9a">
 <img width="261" alt="20240429_115833" src="https://github.com/DOC518/Android/assets/58536317/3290bb8b-15dd-4132-ab7c-2650cb832526">
+<img width="307" alt="20240429_124136" src="https://github.com/DOC518/Android/assets/58536317/9a9c2d60-dda7-4c92-8172-4b5b5604510a">
+<img width="307" alt="20240429_124126" src="https://github.com/DOC518/Android/assets/58536317/333d8648-4bce-4120-a5ff-97cb00a12fc0">
+<img width="364" alt="20240429_124103" src="https://github.com/DOC518/Android/assets/58536317/71ddda63-2e1e-4083-a418-4e149935ea89">
+<img width="316" alt="20240429_124051" src="https://github.com/DOC518/Android/assets/58536317/f1681adb-fd74-47c2-b3b0-a98f97bc12c3">
