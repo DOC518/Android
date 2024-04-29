@@ -18,3 +18,7 @@
 <img width="270" alt="20240429_103120" src="https://github.com/DOC518/Android/assets/58536317/693c9bad-993e-4c55-8c42-0e6bef3d61c0">
 <img width="270" alt="20240429_102916" src="https://github.com/DOC518/Android/assets/58536317/94926919-ef7f-4feb-bdfa-878dbf453984">
 <img width="270" alt="20240429_102645" src="https://github.com/DOC518/Android/assets/58536317/c606c56b-80cf-4bf7-a8e7-110e4865a8e2">
+<img width="270" alt="20240429_111222" src="https://github.com/DOC518/Android/assets/58536317/780c6bb8-a500-48a4-b277-fe3b2c1cdcf3">
+<img width="270" alt="20240429_111017" src="https://github.com/DOC518/Android/assets/58536317/c7aa7409-3654-4d18-9b69-b8ae1fbb5745">
+<img width="243" alt="20240429_110828" src="https://github.com/DOC518/Android/assets/58536317/01546ef2-5b47-4840-903e-429b78d5104c">
+<img width="270" alt="20240429_105902" src="https://github.com/DOC518/Android/assets/58536317/4db84305-4d6f-4899-8a09-1ae707bbd20c">
