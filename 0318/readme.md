@@ -1,4 +1,4 @@
-![20240429_151209](https://github.com/DOC518/Android/assets/58536317/89190e61-dc1e-4d08-b80f-09df0eccc9bc)# 컴퓨터 소프트웨어과 201929194 곽주영 
+# 컴퓨터 소프트웨어과 201929194 곽주영 
 ## 3주차 모바일 앱 수업 과제인 계산기, 이미지 뷰와 버튼, 이미지 뷰어입니다.
 ### 기본 위젯 사용법을 배웠으며, 개인적으로 짜잘하고도 기술적인 오류가 많이 터져서 두 컴퓨터로 코딩하느라 많은 시간을 할애해야 했습니다.
 <img width="261" alt="20240429_122010" src="https://github.com/DOC518/Android/assets/58536317/ed80ac98-f178-4753-bcd3-d1451625fe28">
@@ -20,6 +20,7 @@
 <img width="364" alt="20240429_124103" src="https://github.com/DOC518/Android/assets/58536317/71ddda63-2e1e-4083-a418-4e149935ea89">
 <img width="316" alt="20240429_124051" src="https://github.com/DOC518/Android/assets/58536317/f1681adb-fd74-47c2-b3b0-a98f97bc12c3">
 
+![20240429_151209](https://github.com/DOC518/Android/assets/58536317/89190e61-dc1e-4d08-b80f-09df0eccc9bc)
 ![20240429_154510](https://github.com/DOC518/Android/assets/58536317/68b23a52-62e2-4f4b-8bb9-1b354d36cb2a)
 ![20240429_162812](https://github.com/DOC518/Android/assets/58536317/474ef61f-436b-41c4-b96e-4ca392bdc9a2)
 ![20240429_160111](https://github.com/DOC518/Android/assets/58536317/08960cf0-ef22-4296-bf9d-f938e9217c42)
