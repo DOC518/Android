@@ -6,3 +6,6 @@
 <img width="266" alt="20240429_175734" src="https://github.com/DOC518/Android/assets/58536317/5c94f96a-1415-45eb-8fa4-3585bb7079a1">
 <img width="266" alt="20240429_175024" src="https://github.com/DOC518/Android/assets/58536317/48dfc0a1-9273-43f7-8590-a5b6239ded60">
 <img width="266" alt="20240429_174927" src="https://github.com/DOC518/Android/assets/58536317/381516e7-96d6-4e75-b30d-5fa445490e65">
+
+![20240429_184340](https://github.com/DOC518/Android/assets/58536317/37efc095-5c5e-49e8-97ff-3245cebafc94)
+![20240429_183639](https://github.com/DOC518/Android/assets/58536317/aac2d090-24e0-46b1-b064-e7072688567b)
